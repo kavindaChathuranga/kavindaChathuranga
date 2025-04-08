@@ -1,15 +1,15 @@
-# 💫 About Me:
+ 💫 About Me:
 
 I'm a passionate **Web and Mobile App Developer** currently learning and building projects using **React.js** and **Flutter**.  
 I enjoy creating clean, responsive user interfaces and exploring how to turn ideas into working applications.<br><br>
 
 
-# 🌐 Socials:
+ 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavinda-chathuranga/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavinda2001chathu@gmail.com)  
 
 <br><br>
-# 💻 Tech Stack:
+ 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -38,7 +38,7 @@ I enjoy creating clean, responsive user interfaces and exploring how to turn ide
 </div>  
 
 <br><br>
-# 📊 GitHub Stats:
+ 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindaChathuranga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
