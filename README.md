@@ -6,7 +6,7 @@ I enjoy creating clean, responsive user interfaces and exploring how to turn ide
 
 <br><br>
 
-🌐 <h3>Socials</h3><br>
+<h3> 🌐Socials</h3><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavinda-chathuranga/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavinda2001chathu@gmail.com)
 
